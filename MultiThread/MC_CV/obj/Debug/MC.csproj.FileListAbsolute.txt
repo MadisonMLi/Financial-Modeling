@@ -1,0 +1,13 @@
+D:\Documents\University Life\UMN\Year1\FM5092\HW4\MultiThread\MC_CV\bin\Debug\MC_CV.exe.config
+D:\Documents\University Life\UMN\Year1\FM5092\HW4\MultiThread\MC_CV\bin\Debug\MC_CV.exe
+D:\Documents\University Life\UMN\Year1\FM5092\HW4\MultiThread\MC_CV\bin\Debug\MC_CV.pdb
+D:\Documents\University Life\UMN\Year1\FM5092\HW4\MultiThread\MC_CV\bin\Debug\MathNet.Numerics.dll
+D:\Documents\University Life\UMN\Year1\FM5092\HW4\MultiThread\MC_CV\bin\Debug\MathNet.Numerics.xml
+D:\Documents\University Life\UMN\Year1\FM5092\HW4\MultiThread\MC_CV\obj\Debug\MC.csprojAssemblyReference.cache
+D:\Documents\University Life\UMN\Year1\FM5092\HW4\MultiThread\MC_CV\obj\Debug\MC_CV.Monte.resources
+D:\Documents\University Life\UMN\Year1\FM5092\HW4\MultiThread\MC_CV\obj\Debug\MC_CV.Properties.Resources.resources
+D:\Documents\University Life\UMN\Year1\FM5092\HW4\MultiThread\MC_CV\obj\Debug\MC.csproj.GenerateResource.cache
+D:\Documents\University Life\UMN\Year1\FM5092\HW4\MultiThread\MC_CV\obj\Debug\MC.csproj.CoreCompileInputs.cache
+D:\Documents\University Life\UMN\Year1\FM5092\HW4\MultiThread\MC_CV\obj\Debug\MC.csproj.CopyComplete
+D:\Documents\University Life\UMN\Year1\FM5092\HW4\MultiThread\MC_CV\obj\Debug\MC_CV.exe
+D:\Documents\University Life\UMN\Year1\FM5092\HW4\MultiThread\MC_CV\obj\Debug\MC_CV.pdb
